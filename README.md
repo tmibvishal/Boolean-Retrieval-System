@@ -1,3 +1,6 @@
+# Report
+See file `2018CS50426.pdf` for full report and readings
+
 # Running Instructions
 **Building**
 ```
